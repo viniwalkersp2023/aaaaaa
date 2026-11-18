@@ -8,7 +8,7 @@
       "background": "https://raw.githubusercontent.com/viniwalkersp2023/aaaaaa/main/update-required/midia/aviso-banner-1.png",
       "logo": "https://raw.githubusercontent.com/viniwalkersp2023/aaaaaa/main/update-required/midia/aviso-logo.png",
       "posterShape": "poster",
-      "releaseInfo": "Atualização obrigatõria",
+      "releaseInfo": "Atualização obrigatória",
       "genres": ["Aviso"],
       "description": "Esta versão do Insanox foi descontinuada: addons, plugins e canais de TV pararam de funcionar. Fale com @viniwalkersp para conseguir a versão nova."
     },
@@ -82,7 +82,7 @@
       "posterShape": "poster",
       "releaseInfo": "Aviso",
       "genres": ["Aviso"],
-      "description": "Qualquer filme ou sêrie que você tentar assistir mostra este aviso atê você atualizar. Fale com @viniwalkersp para conseguir a versão nova."
+      "description": "Qualquer filme ou série que você tentar assistir mostra este aviso até você atualizar. Fale com @viniwalkersp para conseguir a versão nova."
     },
     {
       "id": "insanox-atualize-08",
@@ -130,7 +130,7 @@
       "posterShape": "poster",
       "releaseInfo": "Aviso",
       "genres": ["Aviso"],
-      "description": "Sem atualizar, o Insanox fica sem filmes, sêries e TV. Fale com @viniwalkersp para conseguir a versão nova."
+      "description": "Sem atualizar, o Insanox fica sem filmes, séries e TV. Fale com @viniwalkersp para conseguir a versão nova."
     },
     {
       "id": "insanox-atualize-12",
