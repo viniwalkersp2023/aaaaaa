@@ -1,0 +1,17 @@
+{
+  "name": "Insanox - aviso de atualização",
+  "version": "1.0.0",
+  "description": "Substitui as extensões antigas e mostra o aviso de atualização obrigatõria.",
+  "author": "Insanox",
+  "scrapers": [
+    {
+      "id": "aviso-atualizacao",
+      "name": "ATUALIZE O INSANOX",
+      "description": "Aviso de atualização obrigatõria.",
+      "version": "1.0.0",
+      "filename": "aviso-atualizacao.js",
+      "supportedTypes": ["movie", "tv"],
+      "enabled": true
+    }
+  ]
+}
