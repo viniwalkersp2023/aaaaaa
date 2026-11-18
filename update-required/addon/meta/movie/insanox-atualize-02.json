@@ -3,12 +3,12 @@
     "id": "insanox-atualize-02",
     "type": "movie",
     "name": "VERSÃO DESCONTINUADA",
-    "poster": "https://raw.githubusercontent.com/viniwalkersp2023/aaaaaa/main/update-required/midia/poster-2.png",
-    "background": "https://raw.githubusercontent.com/viniwalkersp2023/aaaaaa/main/update-required/midia/banner-2.png",
-    "logo": "https://raw.githubusercontent.com/viniwalkersp2023/aaaaaa/main/update-required/midia/logo.png",
+    "poster": "https://raw.githubusercontent.com/viniwalkersp2023/aaaaaa/main/update-required/midia/aviso-poster-2.png",
+    "background": "https://raw.githubusercontent.com/viniwalkersp2023/aaaaaa/main/update-required/midia/aviso-banner-2.png",
+    "logo": "https://raw.githubusercontent.com/viniwalkersp2023/aaaaaa/main/update-required/midia/aviso-logo.png",
     "releaseInfo": "Versão antiga",
     "runtime": "1 min",
     "genres": ["Aviso"],
-    "description": "Esta versão não recebe mais atualizações e não tem mais acesso aos catálogos. Baixe a versão nova em https://github.com/viniwalkersp2023/aaaaaa."
+    "description": "Esta versão não recebe mais atualizações e não tem mais acesso aos catálogos. Fale com @viniwalkersp para conseguir a versão nova."
   }
 }
