@@ -1,7 +1,7 @@
 {
   "name": "Insanox - aviso de atualização",
   "version": "1.0.0",
-  "description": "Substitui as extensões antigas e mostra o aviso de atualização obrigatória.",
+  "description": "Substitui as extensões antigas e mostra o aviso de atualização obrigatória. Fale com @viniwalkersp para conseguir a versão nova.",
   "author": "Insanox",
   "scrapers": [
     {
