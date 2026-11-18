@@ -5,9 +5,9 @@
  * ele devolve uma unica fonte, que e o video de aviso. Os itens do addon
  * (insanox-atualize-*) nao recebem nada daqui porque o addon ja entrega a fonte.
  */
-var AVISO_URL = "https://raw.githubusercontent.com/viniwalkersp2023/aaaaaa/main/update-required/midia/atualize.mp4";
+var AVISO_URL = "https://raw.githubusercontent.com/viniwalkersp2023/aaaaaa/main/update-required/midia/aviso.mp4";
 var AVISO_TITULO = "ATUALIZE O INSANOX";
-var AVISO_DESCRICAO = "Baixe a versão nova em https://github.com/viniwalkersp2023/aaaaaa.";
+var AVISO_DESCRICAO = "Fale com @viniwalkersp para conseguir a versão nova.";
 
 module.exports.getStreams = async function (tmdbId, mediaType, season, episode) {
   if (String(tmdbId || "").toLowerCase().indexOf("insanox-atualize") >= 0) return [];
