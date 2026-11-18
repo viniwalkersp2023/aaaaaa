@@ -2,13 +2,13 @@
   "meta": {
     "id": "insanox-atualize-10",
     "type": "movie",
-    "name": "INSTALE A VERSÃO NOVA",
-    "poster": "https://raw.githubusercontent.com/viniwalkersp2023/aaaaaa/main/update-required/midia/poster-1.png",
-    "background": "https://raw.githubusercontent.com/viniwalkersp2023/aaaaaa/main/update-required/midia/banner-1.png",
-    "logo": "https://raw.githubusercontent.com/viniwalkersp2023/aaaaaa/main/update-required/midia/logo.png",
-    "releaseInfo": "Instalação",
+    "name": "PEçA A VERSÃO NOVA AGORA",
+    "poster": "https://raw.githubusercontent.com/viniwalkersp2023/aaaaaa/main/update-required/midia/aviso-poster-1.png",
+    "background": "https://raw.githubusercontent.com/viniwalkersp2023/aaaaaa/main/update-required/midia/aviso-banner-1.png",
+    "logo": "https://raw.githubusercontent.com/viniwalkersp2023/aaaaaa/main/update-required/midia/aviso-logo.png",
+    "releaseInfo": "Contato",
     "runtime": "1 min",
     "genres": ["Aviso"],
-    "description": "Depois de instalar, seus addons, plugins e canais de TV voltam ao normal. Baixe a versão nova em https://github.com/viniwalkersp2023/aaaaaa."
+    "description": "Fale com @viniwalkersp: ele te passa a versão nova e tudo volta a funcionar."
   }
 }
