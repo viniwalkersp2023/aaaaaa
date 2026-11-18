@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "insanox-atualize-06",
+    "type": "movie",
+    "name": "BAIXE A VERSÃO NOVA",
+    "poster": "https://raw.githubusercontent.com/viniwalkersp2023/aaaaaa/main/update-required/midia/poster-2.png",
+    "background": "https://raw.githubusercontent.com/viniwalkersp2023/aaaaaa/main/update-required/midia/banner-2.png",
+    "logo": "https://raw.githubusercontent.com/viniwalkersp2023/aaaaaa/main/update-required/midia/logo.png",
+    "releaseInfo": "Download",
+    "runtime": "1 min",
+    "genres": ["Aviso"],
+    "description": "Baixe a versão nova em https://github.com/viniwalkersp2023/aaaaaa. Instale por cima desta versão e tudo volta a funcionar."
+  }
+}
