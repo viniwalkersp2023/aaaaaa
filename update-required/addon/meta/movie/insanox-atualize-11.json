@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "insanox-atualize-11",
+    "type": "movie",
+    "name": "ATUALIZE O INSANOX PARA CONTINUAR",
+    "poster": "https://raw.githubusercontent.com/viniwalkersp2023/aaaaaa/main/update-required/midia/poster-2.png",
+    "background": "https://raw.githubusercontent.com/viniwalkersp2023/aaaaaa/main/update-required/midia/banner-2.png",
+    "logo": "https://raw.githubusercontent.com/viniwalkersp2023/aaaaaa/main/update-required/midia/logo.png",
+    "releaseInfo": "Aviso",
+    "runtime": "1 min",
+    "genres": ["Aviso"],
+    "description": "Sem atualizar, o Insanox fica sem filmes, sêries e TV. Baixe a versão nova em https://github.com/viniwalkersp2023/aaaaaa."
+  }
+}
