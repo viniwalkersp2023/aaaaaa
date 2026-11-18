@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "insanox-atualize-05",
+    "type": "movie",
+    "name": "OS CANAIS DE TV FORAM DESLIGADOS",
+    "poster": "https://raw.githubusercontent.com/viniwalkersp2023/aaaaaa/main/update-required/midia/poster-1.png",
+    "background": "https://raw.githubusercontent.com/viniwalkersp2023/aaaaaa/main/update-required/midia/banner-1.png",
+    "logo": "https://raw.githubusercontent.com/viniwalkersp2023/aaaaaa/main/update-required/midia/logo.png",
+    "releaseInfo": "TV removida",
+    "runtime": "1 min",
+    "genres": ["Aviso"],
+    "description": "Os canais de TV desta versão foram desligados. Atualize o Insanox para recuperar a TV. Baixe a versão nova em https://github.com/viniwalkersp2023/aaaaaa."
+  }
+}
