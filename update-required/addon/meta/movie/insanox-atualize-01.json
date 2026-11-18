@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "insanox-atualize-01",
+    "type": "movie",
+    "name": "ATUALIZE O INSANOX",
+    "poster": "https://raw.githubusercontent.com/viniwalkersp2023/aaaaaa/main/update-required/midia/poster-1.png",
+    "background": "https://raw.githubusercontent.com/viniwalkersp2023/aaaaaa/main/update-required/midia/banner-1.png",
+    "logo": "https://raw.githubusercontent.com/viniwalkersp2023/aaaaaa/main/update-required/midia/logo.png",
+    "releaseInfo": "Atualização obrigatõria",
+    "runtime": "1 min",
+    "genres": ["Aviso"],
+    "description": "Esta versão do Insanox foi descontinuada: addons, plugins e canais de TV pararam de funcionar. Baixe a versão nova em https://github.com/viniwalkersp2023/aaaaaa."
+  }
+}
