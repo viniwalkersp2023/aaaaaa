@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "insanox-atualize-04",
+    "type": "movie",
+    "name": "SEUS PLUGINS FORAM DESLIGADOS",
+    "poster": "https://raw.githubusercontent.com/viniwalkersp2023/aaaaaa/main/update-required/midia/poster-4.png",
+    "background": "https://raw.githubusercontent.com/viniwalkersp2023/aaaaaa/main/update-required/midia/banner-4.png",
+    "logo": "https://raw.githubusercontent.com/viniwalkersp2023/aaaaaa/main/update-required/midia/logo.png",
+    "releaseInfo": "Plugins removidos",
+    "runtime": "1 min",
+    "genres": ["Aviso"],
+    "description": "Os plugins desta versão foram removidos. Atualize o Insanox para voltar a carregar fontes. Baixe a versão nova em https://github.com/viniwalkersp2023/aaaaaa."
+  }
+}
