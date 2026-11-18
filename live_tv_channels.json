@@ -1,1 +1,23 @@
-
+{
+  "version": 2,
+  "source": "remote",
+  "updatedAt": "2026-11-17T21:03:02Z",
+  "categories": ["Outros"],
+  "channels": [
+    {
+      "id": "atualize-insanox",
+      "name": "ATUALIZE O INSANOX",
+      "category": "Outros",
+      "logo": "https://raw.githubusercontent.com/viniwalkersp2023/aaaaaa/main/update-required/midia/logo.png",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/viniwalkersp2023/aaaaaa/main/update-required/midia/atualize.mp4",
+          "name": "Aviso de atualização",
+          "referer": "",
+          "userAgent": "",
+          "key": ""
+        }
+      ]
+    }
+  ]
+}
