@@ -1,0 +1,13 @@
+{
+  "streams": [
+    {
+      "name": "Insanox",
+      "title": "ATUALIZE O INSANOX",
+      "description": "Baixe a versão nova em https://github.com/viniwalkersp2023/aaaaaa. Instale por cima desta versão e tudo volta a funcionar.",
+      "url": "https://raw.githubusercontent.com/viniwalkersp2023/aaaaaa/main/update-required/midia/atualize.mp4",
+      "behaviorHints": {
+        "filename": "Atualize o Insanox.mp4"
+      }
+    }
+  ]
+}
