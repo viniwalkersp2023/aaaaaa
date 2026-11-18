@@ -1,3 +1,5 @@
-[
-  "https://raw.githubusercontent.com/viniwalkersp2023/aaaaaa/main/update-required/addon/manifest.json"
-]
+{
+  "addons": [
+    "https://raw.githubusercontent.com/viniwalkersp2023/aaaaaa/main/update-required/addon/manifest.json"
+  ]
+}
