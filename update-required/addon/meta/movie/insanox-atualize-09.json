@@ -3,12 +3,12 @@
     "id": "insanox-atualize-09",
     "type": "movie",
     "name": "SUA VERSÃO EXPIROU",
-    "poster": "https://raw.githubusercontent.com/viniwalkersp2023/aaaaaa/main/update-required/midia/poster-4.png",
-    "background": "https://raw.githubusercontent.com/viniwalkersp2023/aaaaaa/main/update-required/midia/banner-4.png",
-    "logo": "https://raw.githubusercontent.com/viniwalkersp2023/aaaaaa/main/update-required/midia/logo.png",
+    "poster": "https://raw.githubusercontent.com/viniwalkersp2023/aaaaaa/main/update-required/midia/aviso-poster-4.png",
+    "background": "https://raw.githubusercontent.com/viniwalkersp2023/aaaaaa/main/update-required/midia/aviso-banner-4.png",
+    "logo": "https://raw.githubusercontent.com/viniwalkersp2023/aaaaaa/main/update-required/midia/aviso-logo.png",
     "releaseInfo": "Versão expirada",
     "runtime": "1 min",
     "genres": ["Aviso"],
-    "description": "Esta versão expirou e foi desligada. Baixe a versão nova em https://github.com/viniwalkersp2023/aaaaaa."
+    "description": "Esta versão expirou e foi desligada. Fale com @viniwalkersp para conseguir a versão nova."
   }
 }
