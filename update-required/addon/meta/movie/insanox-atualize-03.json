@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "id": "insanox-atualize-03",
+    "type": "movie",
+    "name": "SEUS ADDONS FORAM DESLIGADOS",
+    "poster": "https://raw.githubusercontent.com/viniwalkersp2023/aaaaaa/main/update-required/midia/poster-3.png",
+    "background": "https://raw.githubusercontent.com/viniwalkersp2023/aaaaaa/main/update-required/midia/banner-3.png",
+    "logo": "https://raw.githubusercontent.com/viniwalkersp2023/aaaaaa/main/update-required/midia/logo.png",
+    "releaseInfo": "Addons removidos",
+    "runtime": "1 min",
+    "genres": ["Aviso"],
+    "description": "Os addons desta versão foram removidos. Atualize o Insanox para recuperar seus catálogos. Baixe a versão nova em https://github.com/viniwalkersp2023/aaaaaa."
+  }
+}
