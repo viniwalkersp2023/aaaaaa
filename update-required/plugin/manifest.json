@@ -1,17 +1,17 @@
 {
   "name": "Insanox - aviso de atualização",
   "version": "1.0.0",
-  "description": "Substitui as extensões antigas e mostra o aviso de atualização obrigatória. Fale com @viniwalkersp para conseguir a versão nova.",
-  "author": "Insanox",
   "scrapers": [
     {
       "id": "aviso-atualizacao",
       "name": "ATUALIZE O INSANOX",
-      "description": "Aviso de atualização obrigatória.",
+      "description": "Aviso de atualização obrigatória. Fale com @viniwalkersp para conseguir a versão nova.",
       "version": "1.0.0",
-      "filename": "aviso-atualizacao.js",
+      "author": "Insanox",
       "supportedTypes": ["movie", "tv"],
-      "enabled": true
+      "filename": "aviso-atualizacao.js",
+      "enabled": true,
+      "contentLanguage": ["pt"]
     }
   ]
 }
