@@ -3,8 +3,8 @@
     {
       "name": "Insanox",
       "title": "ATUALIZE O INSANOX",
-      "description": "Qualquer filme ou sêrie que você tentar assistir mostra este aviso atê você atualizar. Baixe a versão nova em https://github.com/viniwalkersp2023/aaaaaa.",
-      "url": "https://raw.githubusercontent.com/viniwalkersp2023/aaaaaa/main/update-required/midia/atualize.mp4",
+      "description": "Qualquer filme ou sêrie que você tentar assistir mostra este aviso atê você atualizar. Fale com @viniwalkersp para conseguir a versão nova.",
+      "url": "https://raw.githubusercontent.com/viniwalkersp2023/aaaaaa/main/update-required/midia/aviso.mp4",
       "behaviorHints": {
         "filename": "Atualize o Insanox.mp4"
       }
