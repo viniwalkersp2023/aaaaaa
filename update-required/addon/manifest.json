@@ -1,0 +1,17 @@
+{
+  "id": "com.insanox.aviso-atualizacao",
+  "version": "1.0.0",
+  "name": "ATUALIZE O INSANOX",
+  "description": "Esta versão do Insanox foi descontinuada. Atualize para voltar a usar addons, plugins e canais de TV.",
+  "logo": "https://raw.githubusercontent.com/viniwalkersp2023/aaaaaa/main/update-required/midia/logo.png",
+  "types": ["movie"],
+  "resources": ["catalog", "meta", "stream"],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "atualize",
+      "name": "ATUALIZE O INSANOX",
+      "extra": []
+    }
+  ]
+}
